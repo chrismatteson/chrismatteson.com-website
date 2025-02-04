@@ -88,6 +88,7 @@ const App = () => {
           <p className="text-white font-open-sans text-sm">&copy; {new Date().getFullYear()} Chris Matteson. All Rights Reserved.</p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 };
